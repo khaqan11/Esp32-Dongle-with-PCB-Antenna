@@ -1,5 +1,6 @@
 # Esp32 Dongle with Custom PCB Antenna
-A unique ESP32 C3 based PCB design with on board PCB antenna tuned for 2.4GHz Wifi and BLE.
+
+This repository contains the PCB design files, schematic, and 3D model image of a custom designed PCB board around ESP32C3 with Bosh BMI55 Accelerometer with on-board Wifi and BLE antenna. The board is designed for testing and manufacturing.
 
 ## Board Top 3D View
 
