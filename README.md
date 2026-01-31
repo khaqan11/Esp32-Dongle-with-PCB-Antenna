@@ -18,6 +18,6 @@ A unique ESP32 C3 based PCB design with on board PCB antenna tuned for 2.4GHz Wi
 # Note
 I welcome collaboration from engineers, makers, and companies who are interested in improving the design, testing the antenna performance, or taking this board into production. I am also open to sponsorship and manufacturing partnerships, especially for production in China.
 
-Reach out to me:
+## Reach out to me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/khaqan-umar/)
